@@ -2,6 +2,9 @@
 
 A .bat file that activates Windows 10/11 Pro (from Home, Pro, or almost any other edition), permanently.
 
+## Credits
+This script uses another script, available [here](https://github.com/massgravel/Microsoft-Activation-Scripts).
+
 ## Instructions
 
 1. [Download](https://github.com/shaunbharat/hwid-activation/releases/latest/download/activate.bat) the .bat file from the latest release.
