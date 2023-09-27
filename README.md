@@ -1,3 +1,8 @@
+> [!WARNING]  
+> [HWID activation has finally been patched.](https://github.com/massgravel/Microsoft-Activation-Scripts) This script / MAS / other HWID activation scripts will not work anymore.
+>
+> This repository is now archived ( Sept. 27, 2023 ).
+
 # hwid-activation
 
 A .bat file that activates Windows 10/11 Pro (from Home, Pro, or almost any other edition), permanently.
